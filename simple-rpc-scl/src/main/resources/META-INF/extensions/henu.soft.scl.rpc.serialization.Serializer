@@ -1,0 +1,3 @@
+kyro=henu.soft.scl.rpc.serialization.kyro.KryoSerializer
+protostuff=henu.soft.scl.rpc.serialization.protostuff.ProtostuffSerializer
+hessian=henu.soft.scl.rpc.serialization.hessian.HessianSerializer
