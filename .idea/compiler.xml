@@ -7,11 +7,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="service-provider-interface" />
         <module name="rpc-simple-scl-common" />
         <module name="simple-rpc-scl-consumer" />
         <module name="simple-rpc-scl-api" />
         <module name="simple-rpc-scl" />
         <module name="simple-rpc-scl-common" />
+        <module name="service-provider" />
         <module name="simple-rpc-scl-provider" />
         <module name="untitled" />
       </profile>

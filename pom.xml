@@ -15,6 +15,7 @@
         <module>simple-rpc-scl</module>
         <module>simple-rpc-scl-test</module>
         <module>rpc-simple-scl-common</module>
+        <module>simple-rpc-scl-study-spi</module>
     </modules>
 
 
